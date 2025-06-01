@@ -1,5 +1,17 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00BFBF&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Franklin;Full+Stack+Developer;Always+Learning+New+Things;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=twinkling&height=100&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontAlignY=35" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00BFBF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋+I'm+Franklin;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Developer;Always+Learning+New+Things;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&duration=2000&pause=1000&color=9C27B0&center=true&vCenter=true&width=400&height=30&lines=Passionate+about+creating+innovative+solutions;Turning+ideas+into+reality+with+code" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,10 +28,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=twinkling&height=100&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontAlignY=35" />
 </div>
 
 <div align="center">
