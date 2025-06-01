@@ -1,13 +1,33 @@
-# <div align="center">👋 Hi, I'm Franklin</div>
+# <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00BFBF&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Franklin;Full+Stack+Developer;Always+Learning+New+Things;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=franklinglorbasilio&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="franklinglorbasilio" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" alt="Coding GIF" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=twinkling&height=100&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontAlignY=35" />
+</div>
+
+<div align="center">
   [![Profile Views](https://komarev.com/ghpvc/?username=franklinglorbasilio&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/franklinglorbasilio)
   [![Twitter Follow](https://img.shields.io/twitter/follow/asyncerx?logo=twitter&style=for-the-badge)](https://twitter.com/asyncerx)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://franklingbasilio.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-basilio/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Franklinglorbasilio@gmail.com)
-  
 </div>
 
 ## 🚀 About Me
@@ -15,15 +35,39 @@
 > A passionate Web-stack developer with over 3 years of experience creating innovative digital solutions. My journey started with a curiosity about how things work and evolved into a love for building products that make a difference.
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=franklinglorbasilio&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="franklinglorbasilio" />
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/grid-snake.svg" alt="snake eating my contributions" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ## 🎯 Current Focus
 
-- 🔭 Working on [Inventory Management System](https://www.linkedin.com/in/franklin-basilio/)
-- 🌱 Learning **Laravel, Goravel**
-- 👯 Looking to collaborate on [E-commerce System](https://www.linkedin.com/in/franklin-basilio/)
-- 🤝 Seeking help with [Multi Big-Data](https://www.linkedin.com/in/franklin-basilio/)
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🎯 Working On</b></td>
+      <td><b>🌱 Learning</b></td>
+      <td><b>🤝 Collaborating</b></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/franklin-basilio/">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Inventory+Management+System" alt="Typing SVG" />
+        </a>
+      </td>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2D20&center=true&vCenter=true&width=435&lines=Laravel+%7C+Goravel" alt="Typing SVG" />
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/franklin-basilio/">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=E--commerce+System" alt="Typing SVG" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📫 Connect With Me
 
@@ -48,44 +92,36 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  
-  ### Frontend
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-  ### Backend
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-  ### Database
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-  ### Tools
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-  
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=franklinglorbasilio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Franklin Basilio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklinglorbasilio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,tailwind,php,laravel,nodejs,cs,mysql,mongodb,postgres,git,postman,chartjs&theme=dark&perline=9" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=franklinglorbasilio&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franklinglorbasilio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&custom_title=My%20GitHub%20Stats" alt="Franklin Basilio github stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklinglorbasilio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=franklinglorbasilio&theme=dark&hide_border=true&background=0d1117&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franklinglorbasilio&theme=radical" />
+</div>
+
+## 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+```text
+PHP         ████████████████████░░░░░   80.00% 
+JavaScript  ████████░░░░░░░░░░░░░░░░░   30.00% 
+HTML        ██████░░░░░░░░░░░░░░░░░░░   20.00% 
+CSS         ██████░░░░░░░░░░░░░░░░░░░   20.00% 
+Other       ████░░░░░░░░░░░░░░░░░░░░░   10.00% 
+```
+<!--END_SECTION:waka-->
+
+## 🏆 GitHub Profile Trophy
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=franklinglorbasilio&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&animation=scale" />
 </div>
 
 ## ☕ Support My Work
@@ -96,9 +132,15 @@
   </a>
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=twinkling&height=100&section=footer" />
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFBF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Feel+free+to+connect+with+me!" alt="Typing SVG" />
 </div>
 
