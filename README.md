@@ -1,11 +1,10 @@
 <div style="width: 100%;">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=twinkling&height=100&
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=twinkling&height=100"
     style="width: 100%; display: block;"
     alt="Welcome Banner"
   />
 </div>
-
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00BFBF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋+I'm+Franklin;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
