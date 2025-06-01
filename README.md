@@ -1,6 +1,6 @@
 <div style="width: 100%;">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=twinkling&height=100&section=header&text=Hi+👋+I'm+Franklin;!&fontSize=40&fontAlignY=35&desc=Full+Stack+Developer&descAlignY=55&descAlign=50"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=twinkling&height=100&section=header&text=Hi+👋+I'm+Franklin&fontSize=40&fontAlignY=35&desc=Full+Stack+Developer&descAlignY=55&descAlign=50"
     style="width: 100%; display: block;"
     alt="Welcome Banner"
   />
