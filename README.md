@@ -23,14 +23,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=franklinglorbasilio&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="franklinglorbasilio" />
 </div>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" alt="Coding GIF" />
-</div>
-
 ## 🎯 Quick Links
 
 <div align="center">
@@ -295,3 +287,10 @@ Other       ████░░░░░░░░░░░░░░░░░░�
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=twinkling&height=100&section=footer" />
 </div>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" alt="Coding GIF" />
+</div>
